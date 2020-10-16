@@ -1,0 +1,44 @@
+.logo{
+    display: flex;
+}
+.logo li{
+    font-size: 25px;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    padding: 50px;
+        
+}
+
+
+.babo{
+    background-image: url('img/gmif.jpg');
+    height: 1000px; 
+}
+.main{
+    text-align: center;
+    text-shadow:2px 2px 4px #666666;
+    color:white;
+    font-size: 50px;
+    padding: 200px 0;
+
+}
+.program{
+    padding: 100px 0;
+}
+
+.b{
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+    background-color: black;
+    font-size: 3rem;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 0 20 px;
+}
+    
+.notice{
+    border-width: 5px;
+    border: black;
+}
